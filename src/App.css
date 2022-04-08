@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+/* 여기서부터 새로움 */
+body {
+  font-family: 'nanumsquare';
+}
+/* 헤더부분 */
+.black-nav {
+  background: black;
+  width: 100%;
+  display: flex;
+  color: white;
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+/* 리스트부분 */
+.list {
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* html UI */
+.modal {
+  padding: 20px;
+  background: #eee;
+  margin-top: 20px;
+}
