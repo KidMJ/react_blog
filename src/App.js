@@ -9,7 +9,7 @@ function App() {
   let [like, likeClone] = useState([0, 0, 0]);
   let [modal, modalClone] = useState(false);
 
-  let posts = '강남 고기 맛집';
+  let posts = '강남 고기 맛집' ;
 
   // function titleChange(){
   //   // titleClone(title = ['여자 코트 추천', title[1], title[2]]);
