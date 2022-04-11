@@ -48,6 +48,7 @@ function App() {
           ? <Modal title={title} titleClick={titleClick}></Modal>
           : null
         }
+
     </div>
   );
 }
